@@ -187,12 +187,12 @@ params:
           enable: false
         content: "Worked at Garmin as a Software Engineer Intern for 16 months, where I was in two different teams
         
-        - First team, I was part of the Embedded Test Software Team in the Wearables divison, where I devleoped, 
-        maintained and debugged continious integration and deployment pipelines for our Software Development teams using technologies such as Jenkins and Python. 
-        We also mainatined a internatl web dashboard, that used by other teams to view the health of pipelines and other useful information, that was made in HTML, CSS, JavaScript and Flask.
+        - First team, I was part of the Embedded Test Software Team in the Wearables division, where I developed, 
+        maintained and debugged continuous integration and deployment pipelines for our Software Development teams using technologies such as Jenkins and Python. 
+        We also maintained a internal web dashboard, that used by other teams to view the health of pipelines and other useful information, that was made in HTML, CSS, JavaScript and Flask.
 
         - Second team, I was part of the Bluetooth Low Energy Applications Team (BLAPPS), where we developed, maintained, and debugged Bluetooth Low Energy modules in C/C++. 
-        Our main responsibilites included developing features that included BLE and fix phone and Garmin BLE link issues from users. 
+        Our main responsibilities included developing features that included BLE and fix phone and Garmin BLE link issues from users. 
         One of my main projects was creating an automated testing framework, that built upon the Appium Framework, where allows more intuitive automated testing workflows between Garmin devices and mobile devices."
 
       - job: "Software Developer"
@@ -271,7 +271,7 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: Smartwatch Gesture Recongition
+      - title: Smartwatch Gesture Recognition
         content: In a team of 4, developing a machine learning model that recognizes gestures from a Garmin smartwatch and executes commands based on a gesture on an Android Device.
         image: /images/projects/converter.jpg
         # featured:
@@ -280,7 +280,7 @@ params:
         badges:
           - "Monkey C"
           - "Android"
-          - "Koltin"
+          - "Kotlin"
           - "Postgres"
 
         links:
@@ -292,7 +292,7 @@ params:
           #   url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
 
       - title: FAM Delivery
-        content: In a team of 3, created a full stack website that allows users to order food items from thier nearest supermarkets
+        content: A food menu ordering system, where users can order groceries from nearby supermarkets
         image: /images/projects/fam_delivery.png
         badges:
           - "HTML"
@@ -308,7 +308,7 @@ params:
             url: https://documenter.getpostman.com/view/14136690/UVRAJ7H4
 
       - title: BetterBoxed
-        content: In a team of 7, developed a full stack website, where users can search and view for movies and they can create public and private lists of movies
+        content: All in one movie database website for users to search for countless movies and its reviews, look at what's trending, create and view public lists of categorized movies and create a personalized journal
         image: /images/projects/betterboxed.png
         featured:
           name: Youtube Demo
@@ -329,7 +329,7 @@ params:
             url: https://github.com/fmhossai/BetterBoxd
 
       - title: New Immigrant Kiosk
-        content: In a team of 5, developed a Front end React application, where users can view immigrant services from the City of Calgary.
+        content: A Kiosk application that focuses on immigrant services from the City of Calgary in a easy to use interface.
         image: /images/projects/new_immigrant_kiosk.png
         featured:
           name: Demo
@@ -345,7 +345,7 @@ params:
             url: https://github.com/fmhossai/new_immigrant_kiosk
       
       - title: Rental System
-        content: In a team of 5, developed a GUI application, where users can view properties in Calgary, and contact the corresponding landlords of those properties.
+        content: A rental property system for renters and landlords to find available properties to rent and contact the corresponding landlords, and for landlords to list their properties.
         image: /images/projects/profile2.jpg  
         badges:
           - "Java"
@@ -359,7 +359,7 @@ params:
   contact:
     enable: true
     # title: "Custom Name"
-    content: If you want to contact me for any reason, don't hestiate to email me!
+    content: If you want to contact me for any reason, don't hesitate to email me!
     email: faisal.m.hossain@gmail.com
     btnName: Mail me
     # formspree:
