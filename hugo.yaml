@@ -128,7 +128,7 @@ params:
     title: "Faisal"
     subtitle: "Software Engineer"
     content: "A passionate Software Engineer from University of Calgary, creating technological solutions to make the world a better place."
-    image: /images/web-design.jpg
+    image: /images/laptop.png
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
