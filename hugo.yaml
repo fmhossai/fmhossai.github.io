@@ -1,6 +1,6 @@
 baseURL: "https://fmhossai.github.io/"
 languageCode: "en-us"
-title: "Hugo Profile"
+title: "Faisal's Profile"
 theme: hugo-profile
 
 outputs:
@@ -54,8 +54,8 @@ markup:
 #   weight: 2
 
 params:
-  title: "Hugo Profile"
-  description: Text about my cool site
+  title: "Faisal's Profile"
+  description: Faisal's personal website
   # staticPath: ""  # The path to serve the static files from
   favicon: "/fav.png"
 
@@ -128,14 +128,14 @@ params:
     title: "Faisal"
     subtitle: "Software Engineer"
     content: "A passionate Software Engineer from University of Calgary, creating technological solutions to make the world a better place."
-    image: /images/hero.svg
+    image: /images/web-design.jpg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
     button:
       enable: true
       name: "Resume"
-      url: "Faisal_Hossain_resume.pdf"
+      url: "/Faisal_Hossain_resume.pdf"
       download: true
       newPage: false
     socialLinks:
@@ -151,9 +151,12 @@ params:
     title: "About Me"
     image: "/images/45044819.jpg"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. 
+      I am a Software Engineer Student from University of Calgary. I have a passion for Software Development, such as learning and debugging problems everyday! I have experience in various fields of Software Development, particularly in
 
-      I am currently working on a project that will be used to help people find the best way to get around the city.
+      - Web Development
+      - DevOps
+      - Automated Testing
+      - Embedded Systems
     skills:
       enable: true
       title: "Here are some technologies I used previously in projects or professionally:"
@@ -170,8 +173,6 @@ params:
         - "C++"
         - "Jenkins"
         - "Java"
-        - "Unity"
-        - "C#"
 
   # Experience
   experience:
@@ -192,7 +193,7 @@ params:
 
         - Second team, I was part of the Bluetooth Low Energy Applications Team (BLAPPS), where we developed, maintained, and debugged Bluetooth Low Energy modules in C/C++. 
         Our main responsibilites included developing features that included BLE and fix phone and Garmin BLE link issues from users. 
-        One of my main projects was creating an automated testing framework, that built upon the Appium Framework, where allows more intutive automated testing workflows between Garmin devices and mobile devices."
+        One of my main projects was creating an automated testing framework, that built upon the Appium Framework, where allows more intuitive automated testing workflows between Garmin devices and mobile devices."
 
       - job: "Software Developer"
         company: "Banff Trail Education"
@@ -258,7 +259,8 @@ params:
     title: "Interests"
     items:
       - title: Anime
-        content: "Some of my favorites include Jujutsu Kaisen, One Piece and Horimiya"
+        content: "Some of my favorites include Jujutsu Kaisen, One Piece and Horimiya. Click for my AniList"
+        url: https://anilist.co/user/fmhossai/animelist
       - title: Japanese Culture
         content: "This includes food, Japanese Music such as JPop and JRock. Some artists I enjoy listening to include Ado, Yorushika, TUYU"
       - title: Video Games
