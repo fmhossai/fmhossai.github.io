@@ -164,13 +164,15 @@ params:
         - "HTML"
         - "CSS"
         - "JavaScript"
+        - "TypeScript"
         - "React"
-        - "Node"
+        - "Node.js"
         - "Express"
         - "Python"
         - "Flask"
         - "C"
         - "C++"
+        - "C#"
         - "Jenkins"
         - "Java"
 
@@ -324,6 +326,7 @@ params:
           - "Redis"
           - "Docker"
           - "Kubernetes"
+          - "Google Cloud Platform"
         links:
           - icon: fab fa-github
             url: https://github.com/fmhossai/BetterBoxd
@@ -337,12 +340,22 @@ params:
         badges:
           - "HTML"
           - "CSS"
-          - "JavaScript"
+          - "TypeScript"
           - "React"
           - "Vite"
         links:
           - icon: fab fa-github
             url: https://github.com/fmhossai/new_immigrant_kiosk
+      
+      - title: Food Menu VR Application
+        content: A VR Application created in Unity for users to view and order food items from a menu using Stereoscopic view and 3D Haptic Feedback devices
+        image: /images/projects/food_vr_application.png
+        badges:
+          - "Unity"
+          - "C#"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/fmhossai/FoodItemVRApplication
       
       - title: Rental System
         content: A rental property system for renters and landlords to find available properties to rent and contact the corresponding landlords, and for landlords to list their properties.
