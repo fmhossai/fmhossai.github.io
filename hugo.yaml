@@ -294,7 +294,7 @@ params:
           #   url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
 
       - title: FAM Delivery
-        content: A food menu ordering system, where users can order groceries from nearby supermarkets
+        content: A food menu ordering system, where users can order groceries from nearby supermarkets with a corresponding REST API with authentication for developers to securely grab data from a MySQL Database
         image: /images/projects/fam_delivery.png
         badges:
           - "HTML"
@@ -329,14 +329,14 @@ params:
           - "Google Cloud Platform"
         links:
           - icon: fab fa-github
-            url: https://github.com/fmhossai/BetterBoxd
+            url: https://github.com/fmhossai/BetterBoxed
 
       - title: New Immigrant Kiosk
         content: A Kiosk application that focuses on immigrant services from the City of Calgary in a easy to use interface.
         image: /images/projects/new_immigrant_kiosk.png
         featured:
           name: Demo
-          link: https://new-immigrant-kiosk.netlify.app/
+          link: https://immigrant-kiosk.netlify.app/
         badges:
           - "HTML"
           - "CSS"
